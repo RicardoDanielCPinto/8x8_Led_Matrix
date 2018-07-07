@@ -3,7 +3,7 @@
 
 A project were im using:
 
--8x8 bi color led matrix without controller PCB
+-8x8 bi color led matrix without PCB controller
 
 -Arduino Timer interrupts
 
